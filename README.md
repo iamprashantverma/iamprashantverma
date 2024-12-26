@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @iamprashantverma  
+- 👀 I’m interested in solving challenging problems, developing scalable applications, and exploring new technologies.  
+- 🌱 I’m currently learning advanced concepts in Spring Boot, React, and system design while sharpening my DSA skills.  
+- 💞️ I’m looking to collaborate on open-source projects related to web development, backend systems, and microservices.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prashant2k26) | [Email](mailto:prashant2k26@gmail.com)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I believe every bug teaches a developer something new and valuable!  
