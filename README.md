@@ -1,7 +1,18 @@
 - 👋 Hi, I’m @iamprashantverma  
-- 👀 I’m interested in solving challenging problems, developing scalable applications, and exploring new technologies.  
-- 🌱 I’m currently learning advanced concepts in Spring Boot, React, and system design while sharpening my DSA skills.  
-- 💞️ I’m looking to collaborate on open-source projects related to web development, backend systems, and microservices.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prashant2k26) | [Email](mailto:prashant2k26@gmail.com)  
+- 👨‍💻 Full-Stack Java Developer | Java & React Enthusiast 
+- 👀 Passionate about building scalable backend systems, architecting clean solutions, and solving real-world challenges  
+- 🌱 Currently deep-diving into:  
+  - ⚙️ Advanced Spring Boot (Microservices, AOP, Kafka, Security)  
+  - ⚛️ React (Hooks, State Management, Apollo Client, Tailwind)  
+  - 🧠 Data Structures & Algorithms (for problem-solving and interviews)  
+  - 🏗️ System Design (high-level architecture and distributed systems)  
+- 💡 I love clean code, thoughtful design patterns, and meaningful collaboration  
+- 💬 Ask me about: Backend architecture, REST/GraphQL APIs, Kafka, JWT, Caching, GitHub automation  
+- 💞️ Looking to collaborate on:  
+  - 🌍 Open-source projects (preferably backend-heavy or full-stack)  
+  - 🧪 Proof-of-concept builds and real-time collaborative tools  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/prashant2k26) | [Email](mailto:prashant2k26@gmail.com)  
+- 🛠️ Tech Stack: Java, Spring Boot, React, PostgreSQL, Kafka, Redis, GraphQL, Docker  
+- 📚 Favorite Dev Habits: Writing clean APIs, test-driven development, modular monoliths, microservice orchestration  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I believe every bug teaches a developer something new and valuable!  
+- ⚡ Fun fact: Every bug is just a misunderstood feature waiting to be tamed 🐛➡️🚀  
