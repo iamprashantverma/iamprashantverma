@@ -12,7 +12,7 @@
   - 🌍 Open-source projects (preferably backend-heavy or full-stack)  
   - 🧪 Proof-of-concept builds and real-time collaborative tools  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/prashant2k26) | [Email](mailto:prashant2k26@gmail.com)  
-- 🛠️ Tech Stack: Java, Spring Boot, React, PostgreSQL, Kafka, Redis, GraphQL, Docker  
+- 🛠️ Tech Stack: Java, Spring Boot, React, MYSQL, Kafka, Redis, GraphQL, Docker  
 - 📚 Favorite Dev Habits: Writing clean APIs, test-driven development, modular monoliths, microservice orchestration  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Every bug is just a misunderstood feature waiting to be tamed 🐛➡️🚀  
