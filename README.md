@@ -59,12 +59,13 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprashantverma&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats (small) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprashantverma&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iamprashantverma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- GitHub Stats (small) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iamprashantverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=300" alt="GitHub Stats" />
 </p>
 
 
