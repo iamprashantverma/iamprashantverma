@@ -18,7 +18,6 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 - **Frameworks & Tools**: Spring Boot, React, Kafka, Docker, Redis, GraphQL, MySQL  
 - Knowledge of **OOP, design patterns, and system design**
 
-
 ---
 
 ### 🌟 What I’m Learning
@@ -60,24 +59,27 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprashantverma&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprashantverma&theme=tokyonight" alt="GitHub Streak" />
+  &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=iamprashantverma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprashantverma&theme=tokyonight" alt="GitHub Streak" style="margin: 10px 0;" />
 </p>
 
 ---
 
 ### 📈 Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamprashantverma&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://komarev.com/ghpvc/?username=iamprashantverma&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamprashantverma&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
 
 ### 🎯 Fun Fact
 > Every bug is just a misunderstood feature 🐛➡️🚀
-
----
-
-⭐ **Check out my projects and feel free to connect!**
