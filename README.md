@@ -18,11 +18,6 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 - **Frameworks & Tools**: Spring Boot, React, Kafka, Docker, Redis, GraphQL, MySQL  
 - Knowledge of **OOP, design patterns, and system design**
 
-**I love to:**
-- Write clean and simple code that can grow with the project  
-- Work on backend systems and distributed systems  
-- Use problem-solving skills to make programs run faster and better  
-- Build real-time apps and tools for collaboration  
 
 ---
 
