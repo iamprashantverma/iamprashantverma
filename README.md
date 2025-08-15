@@ -58,29 +58,22 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 
 ---
 
-### 📊 GitHub Stats
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streaks
 <p align="center">
-  <!-- GitHub Streak Stats (small) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprashantverma&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <!-- GitHub Stats (small) -->
   <img src="https://github-readme-stats.vercel.app/api?username=iamprashantverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=300" alt="GitHub Stats" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprashantverma&theme=tokyonight" alt="GitHub Streak" style="margin: 10px 0;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamprashantverma&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
 
-### 📈 Profile Summary
+### 📈 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamprashantverma&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamprashantverma&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
