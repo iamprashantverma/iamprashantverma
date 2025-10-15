@@ -31,15 +31,16 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant2k26" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="height:40px;" />
   </a>
   <a href="mailto:prashant2k26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:40px;" />
   </a>
   <a href="https://leetcode.com/u/imprashantverma/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" style="height:40px;" />
   </a>
 </p>
+
 
 ---
 
