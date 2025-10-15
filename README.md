@@ -46,7 +46,7 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -55,6 +55,7 @@ Programming has been my most loyal companion — it never leaves, it only waits 
   <img src="https://skillicons.dev/icons?i=graphql" />
   <img src="https://skillicons.dev/icons?i=kafka" />
 </p>
+
 
 ---
 
