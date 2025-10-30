@@ -80,5 +80,5 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 
 ---
 
-### 🎯 Fun Fact
-> Every bug is just a misunderstood feature 🐛➡️🚀
+###  Fun Fact
+> Every bug is just a misunderstood feature 🐛
