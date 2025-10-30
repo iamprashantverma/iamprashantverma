@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a **Full-Stack Java Developer** 👨‍💻 who enjoys building **scalable backend systems**, clean designs, and solving real problems.  
 I like mixing **logic, creativity, and attention to detail** to make software that is strong and easy to use.
 
@@ -13,14 +13,14 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 
 ---
 
-### 🛠 Skills
+###  Skills
 - **Languages**:  Java , JavaScript, SQL  
 - **Frameworks & Tools**: Spring Boot, React, Kafka, Docker, Redis, GraphQL, MySQL  
 - Knowledge of **OOP, design patterns, and system design**
 
 ---
 
-### 🌟 What I’m Learning
+###  What I’m Learning
 - Advanced Spring Boot (Microservices, AOP, Kafka, Security)  
 - React (Hooks, State Management, Apollo Client, Tailwind)  
 - Data Structures & Algorithms  
@@ -28,7 +28,7 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant2k26" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="height:40px;" />
@@ -60,7 +60,7 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 
 ---
 
-### 📊 GitHub Stats & Streaks
+###  GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprashantverma&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Streak" />
   &nbsp;&nbsp;
