@@ -16,7 +16,6 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 ###  Skills
 - **Languages**:  Java , JavaScript, SQL  
 - **Frameworks & Tools**: Spring Boot, React, Kafka, Docker, Redis, GraphQL, MySQL  
-- Knowledge of **OOP, design patterns, and system design**
 
 ---
 
