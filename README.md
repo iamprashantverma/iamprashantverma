@@ -15,7 +15,7 @@ Programming has been my most loyal companion — it never leaves, it only waits 
 
 ###  Skills
 - **Languages**:  Java , JavaScript, SQL  
-- **Frameworks & Tools**: Spring Boot, React, Kafka, Docker, Redis, GraphQL, MySQL  
+- **Frameworks & Tools**: Spring Boot, React, Kafka, Docker, Redis, GraphQL, SQL  
 
 ---
 
@@ -54,7 +54,13 @@ Programming has been my most loyal companion — it never leaves, it only waits 
   <img src="https://skillicons.dev/icons?i=redis" />
   <img src="https://skillicons.dev/icons?i=graphql" />
   <img src="https://skillicons.dev/icons?i=kafka" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
+
 
 
 ---
